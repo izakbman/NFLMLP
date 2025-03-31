@@ -1,4 +1,4 @@
-# Project 3 Report - Izak Boardman
+# NFLMLP - Izak Boardman
 
 ## Data Description: NFL Big Data Bowl 2019
 The NFL hosts an annual Kaggle competition using next-gen stats data. This project utilizes data from the 2019 competition, which includes games from the 2017-2019 seasons.
